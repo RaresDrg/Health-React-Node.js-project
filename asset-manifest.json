@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Health-React-Node.js-project/static/css/main.89434bbf.css",
-    "main.js": "/Health-React-Node.js-project/static/js/main.1d5a4451.js",
+    "main.js": "/Health-React-Node.js-project/static/js/main.f67ebeb1.js",
     "static/js/64.518ed397.chunk.js": "/Health-React-Node.js-project/static/js/64.518ed397.chunk.js",
     "static/js/864.19f2ced2.chunk.js": "/Health-React-Node.js-project/static/js/864.19f2ced2.chunk.js",
     "static/js/973.9dd2ab2a.chunk.js": "/Health-React-Node.js-project/static/js/973.9dd2ab2a.chunk.js",
@@ -36,7 +36,7 @@
     "static/media/vector-layer.svg": "/Health-React-Node.js-project/static/media/vector-layer.252ca4cd3c12609ac3a6bce79989f953.svg",
     "static/media/logo.svg": "/Health-React-Node.js-project/static/media/logo.bba2dc4f13de7eb5546dd31dbf227e54.svg",
     "main.89434bbf.css.map": "/Health-React-Node.js-project/static/css/main.89434bbf.css.map",
-    "main.1d5a4451.js.map": "/Health-React-Node.js-project/static/js/main.1d5a4451.js.map",
+    "main.f67ebeb1.js.map": "/Health-React-Node.js-project/static/js/main.f67ebeb1.js.map",
     "64.518ed397.chunk.js.map": "/Health-React-Node.js-project/static/js/64.518ed397.chunk.js.map",
     "864.19f2ced2.chunk.js.map": "/Health-React-Node.js-project/static/js/864.19f2ced2.chunk.js.map",
     "973.9dd2ab2a.chunk.js.map": "/Health-React-Node.js-project/static/js/973.9dd2ab2a.chunk.js.map",
@@ -62,6 +62,6 @@
   },
   "entrypoints": [
     "static/css/main.89434bbf.css",
-    "static/js/main.1d5a4451.js"
+    "static/js/main.f67ebeb1.js"
   ]
 }
